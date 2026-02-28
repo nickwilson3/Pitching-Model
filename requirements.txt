@@ -1,0 +1,6 @@
+anthropic
+python-dotenv
+pandas
+numpy
+requests
+pyyaml
